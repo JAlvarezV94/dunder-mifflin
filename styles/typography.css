@@ -1,0 +1,36 @@
+@import './fonts.css';
+.title{
+    font-family: 'title';
+    font-size: 35px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.subtitle{
+    font-family: 'title';
+    font-size: 28px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.menu{
+    font-family: 'title';
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+
+.paragraph{
+    font-family: 'paragraph';
+    font-size: 24px;
+    font-style: normal;
+    text-decoration: none;
+}
+
+.paragraph-small{
+    font-family: 'paragraph';
+    font-size: 18px;
+    font-style: normal;
+    text-decoration: none;
+}

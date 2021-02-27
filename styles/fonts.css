@@ -1,0 +1,9 @@
+@font-face {
+    src: url('../fonts/Lato/Lato-Regular.ttf');
+    font-family: 'paragraph';
+}
+
+@font-face {
+    src: url('../fonts/Roboto/Roboto-Regular.ttf');
+    font-family: 'title';
+}
