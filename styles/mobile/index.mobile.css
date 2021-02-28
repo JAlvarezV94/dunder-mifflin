@@ -1,0 +1,29 @@
+@media (max-width: 850px){
+    .main-container{
+        flex-direction: column;
+        max-width: inherit;
+        position: relative;
+        padding: 5%;
+        margin-top: 10%;
+        height: inherit;
+    }
+
+    .secondary-container > div{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .secondary-container > div >div {
+        margin: 15px 0;
+    }
+}
+
+@media (max-width: 400px){
+    .border-card{
+        max-width: 300px;
+    }
+
+    .border-card img {
+        max-width: 300px;
+    }
+}
