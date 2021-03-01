@@ -49,6 +49,7 @@ body{
     color: var(--black);
     display: inline;
     border-radius: var(--space-5);
+    text-decoration: none;
 }
 
 /*Main content*/
