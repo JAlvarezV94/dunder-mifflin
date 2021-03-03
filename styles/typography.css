@@ -35,3 +35,10 @@
     font-style: normal;
     text-decoration: none;
 }
+
+.paragraph-super-small{
+    font-family: 'paragraph';
+    font-size: 16px;
+    font-style: normal;
+    text-decoration: none;
+}
