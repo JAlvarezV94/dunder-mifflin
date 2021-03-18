@@ -34,19 +34,19 @@
             <div class="col-6">
                 <div class="card">
                     <img src="./img/icons/paper icon.png" alt="product img">
-                    <form action="./success.html" method="POST">
+                    <form action="./success.html" method="POST" data-netlify="true">
                         <label class="paragraph" for="name">
                             Name
                         </label>
-                        <input id="name" type="text" for="name"/>
+                        <input id="name" type="text" for="name" required/>
                         <label class="paragraph" for="surname">
                             Surname
                         </label>
-                        <input id="surname" type="text" for="surname"/>
+                        <input id="surname" type="text" for="surname" required/>
                         <label class="paragraph" for="address">
                             Address
                         </label>
-                        <input id="address" type="text" for="address"/>
+                        <input id="address" type="text" for="address" required/>
 
                         <input class="paragraph purchase-button" type="submit" value="Buy"/>
                     </form>
